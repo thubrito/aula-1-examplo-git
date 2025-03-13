@@ -1,2 +1,2 @@
-# aula-1-examplo-git
+# aula-1-exemplo-git
 meu primeiro repositório
