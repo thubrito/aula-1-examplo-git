@@ -28,4 +28,10 @@ Este é o meu primeiro repositório no GitHub. Estou começando minha jornada no
  
 Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
 
-ovgbesv
+ovgbesvesbveuovb
+
+**Obrigado por visitar meu repositório!**
+
+
+** by: thubrito**
+
